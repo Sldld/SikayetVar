@@ -3,7 +3,7 @@ import complaintcomponenteye from 'C:/Users/Q1/Desktop/sikayetvar/img/complaintc
 import comment from 'C:/Users/Q1/Desktop/sikayetvar/img/comment.png'
 function Minicomplaint() {
     return (
-        <div className='complaintcomponentdimension '>
+        <div className='complaintcomponentdimension' >
             <div className='flex w-full items-center'>
                 <div className='flex ml-3 mt-3'>
             <div className='profilephoto'>
